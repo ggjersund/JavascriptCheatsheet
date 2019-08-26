@@ -1,21 +1,14 @@
 const path = require('path');
+const webpack = require('webpack');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
-const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 
 module.exports = {
-  mode: 'development',
   entry: {
     app: './src/components/index-component/index.js',
     print: './src/components/print-component/print.js'
   },
-  devtool: 'inline-source-map',
-  devServer: {
-    contentBase: './dist',
-    hot: true,
-    port: 4200
-  },
   plugins: [
-    new CleanWebpackPlugin(),
+    new webpack.ProgressPlugin(),
     new HtmlWebpackPlugin({
       template: "./src/index.html",
       filename: "./index.html"
