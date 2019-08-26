@@ -1,11 +1,20 @@
 import { printMe } from './print';
 
-test('should output a console log 1', () => {
-  expect(true).toBe(true);
-})
 
-test('should output a console log 2', () => {
-  expect(true).toBe(true);
-  // The code below will not pass Travis CI
-  // expect(true).toBe(false);
+// create a function into global context for Jest
+global.console = {
+  log: jest.fn(),
+  info: jest.fn(),
+  error: jest.fn()
+}
+
+
+test('Should output a console log', () => {
+
+  printMe();
+
+  expect(global.console.log).toHaveBeenCalledWith(
+    'I get called from print.js!'
+  )
+
 })
