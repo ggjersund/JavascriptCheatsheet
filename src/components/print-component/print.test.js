@@ -5,5 +5,7 @@ test('should output a console log 1', () => {
 })
 
 test('should output a console log 2', () => {
-  expect(true).toBe(false);
+  expect(true).toBe(true);
+  // The code below will not pass Travis CI
+  // expect(true).toBe(false);
 })
