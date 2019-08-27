@@ -1,4 +1,4 @@
-import printMe from './print';
+import printMe from '../../../src/components/print/print';
 
 
 global.console = {

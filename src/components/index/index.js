@@ -2,7 +2,7 @@ import _ from 'lodash';
 import './style.css';
 import Icon from './icon.png';
 import Data from './data.xml';
-import printMe from '../print-component/print.js';
+import printMe from '../print/print.js';
 
 
 function component() {

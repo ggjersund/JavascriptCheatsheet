@@ -4,8 +4,8 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
   entry: {
-    app: './src/components/index-component/index.js',
-    print: './src/components/print-component/print.js'
+    app: './src/components/index/index.js',
+    print: './src/components/print/print.js'
   },
   plugins: [
     new webpack.ProgressPlugin(),
