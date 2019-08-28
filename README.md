@@ -7,3 +7,11 @@
 [![GitHub forks](https://img.shields.io/github/forks/ggjersund/JavascriptCheatsheet)](https://github.com/ggjersund/JavascriptCheatsheet/network)
 
 Javascript cheatsheet and "cheatcode" for how to use Javascript with Webpack as the bundler, Babel to transpile from ES6 to browser compatible Javascript, and JEST as test runner and assertion library. ESLint is used as linting utility and for continuous integration, a basic Travis CI configuration is used together with Coveralls that is checking code coverage.
+
+
+[![Babel Logo](https://github.com/gilbarbara/logos/blob/master/logos/babel.svg)](https://babeljs.io/)
+[![Webpack Logo](https://github.com/gilbarbara/logos/blob/master/logos/webpack.svg)](https://webpack.js.org/)
+[![Jest Logo](https://github.com/gilbarbara/logos/blob/master/logos/jest.svg)](https://jestjs.io/)
+[![ESLint Logo](https://github.com/gilbarbara/logos/blob/master/logos/eslint.svg)](https://eslint.org/)
+[![Travis CI Logo](https://github.com/gilbarbara/logos/blob/master/logos/travis-ci.svg)](https://travis-ci.org/)
+[![Coveralls Logo](https://github.com/gilbarbara/logos/blob/master/logos/coveralls.svg)](https://coveralls.io/)
