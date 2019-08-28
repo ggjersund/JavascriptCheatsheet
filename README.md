@@ -7,4 +7,4 @@
 [![GitHub forks](https://img.shields.io/github/forks/ggjersund/JavascriptCheatsheet)](https://github.com/ggjersund/JavascriptCheatsheet/network)
 
 Javascript cheatsheet and "cheatcode" for how to use Javascript with Webpack as bundler, Babel to convert from ES6 to CommonJS, and JEST as testing framework.
-Continuous integration is tested using a basic Travis CI configuration and code coverage is checked using Coveralls.
+ESLint is used as linting utility and for Continuous integration basic Travis CI configuration is used together with Coveralls checking code coverage.
