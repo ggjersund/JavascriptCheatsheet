@@ -6,5 +6,4 @@
 [![GitHub stars](https://img.shields.io/github/stars/ggjersund/JavascriptCheatsheet)](https://github.com/ggjersund/JavascriptCheatsheet/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ggjersund/JavascriptCheatsheet)](https://github.com/ggjersund/JavascriptCheatsheet/network)
 
-Javascript cheatsheet and "cheatcode" for how to use Javascript with Webpack as bundler, Babel to convert from ES6 to CommonJS, and JEST as testing framework.
-ESLint is used as linting utility and for Continuous integration basic Travis CI configuration is used together with Coveralls checking code coverage.
+Javascript cheatsheet and "cheatcode" for how to use Javascript with Webpack as the bundler, Babel to transpile from ES6 to browser compatible Javascript, and JEST as test runner and assertion library. ESLint is used as linting utility and for continuous integration, a basic Travis CI configuration is used together with Coveralls that is checking code coverage.
