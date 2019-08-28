@@ -6,9 +6,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/ggjersund/JavascriptCheatsheet)](https://github.com/ggjersund/JavascriptCheatsheet/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ggjersund/JavascriptCheatsheet)](https://github.com/ggjersund/JavascriptCheatsheet/network)
 
-
 ---
-
 
 [<img alt="BabelJS Logo" src="https://github.com/gilbarbara/logos/blob/master/logos/babel.svg" height="50">](https://babeljs.io/)
 [<img alt="Webpack Logo" src="https://github.com/gilbarbara/logos/blob/master/logos/webpack.svg" height="50">](https://webpack.js.org/)
