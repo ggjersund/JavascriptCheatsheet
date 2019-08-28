@@ -10,8 +10,13 @@ Javascript cheatsheet and "cheatcode" for how to use Javascript with Webpack as 
 
 
 [![Babel Logo](https://github.com/gilbarbara/logos/blob/master/logos/babel.svg)](https://babeljs.io/)
+
 [![Webpack Logo](https://github.com/gilbarbara/logos/blob/master/logos/webpack.svg)](https://webpack.js.org/)
+
 [![Jest Logo](https://github.com/gilbarbara/logos/blob/master/logos/jest.svg)](https://jestjs.io/)
+
 [![ESLint Logo](https://github.com/gilbarbara/logos/blob/master/logos/eslint.svg)](https://eslint.org/)
+
 [![Travis CI Logo](https://github.com/gilbarbara/logos/blob/master/logos/travis-ci.svg)](https://travis-ci.org/)
+
 [![Coveralls Logo](https://github.com/gilbarbara/logos/blob/master/logos/coveralls.svg)](https://coveralls.io/)
