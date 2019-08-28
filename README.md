@@ -6,11 +6,11 @@
 [![GitHub stars](https://img.shields.io/github/stars/ggjersund/JavascriptCheatsheet)](https://github.com/ggjersund/JavascriptCheatsheet/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ggjersund/JavascriptCheatsheet)](https://github.com/ggjersund/JavascriptCheatsheet/network)
 
-Javascript cheatsheet and "cheatcode" for how to use Javascript with Webpack as the bundler, Babel to transpile from ES6 to browser compatible Javascript, and JEST as test runner and assertion library. ESLint is used as linting utility and for continuous integration, a basic Travis CI configuration is used together with Coveralls that is checking code coverage.
-
 [<img alt="BabelJS Logo" src="https://github.com/gilbarbara/logos/blob/master/logos/babel.svg" height="50">](https://babeljs.io/)
 [<img alt="Webpack Logo" src="https://github.com/gilbarbara/logos/blob/master/logos/webpack.svg" height="50">](https://webpack.js.org/)
 [<img alt="JestJS Logo" src="https://github.com/gilbarbara/logos/blob/master/logos/jest.svg" height="50">](https://jestjs.io/)
 [<img alt="ESLint Logo" src="https://github.com/gilbarbara/logos/blob/master/logos/eslint.svg" height="50">](https://eslint.org/)
 [<img alt="Travis CI Logo" src="https://github.com/gilbarbara/logos/blob/master/logos/travis-ci.svg" height="50">](https://travis-ci.org/)
 [<img alt="Coveralls Logo" src="https://github.com/gilbarbara/logos/blob/master/logos/coveralls.svg" height="50">](https://coveralls.io/)
+
+Javascript cheatsheet and "cheatcode" for how to use Javascript with Webpack as the bundler, Babel to transpile from ES6 to browser compatible Javascript, and JEST as test runner and assertion library. ESLint is used as linting utility and for continuous integration, a basic Travis CI configuration is used together with Coveralls that is checking code coverage.
