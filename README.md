@@ -1,7 +1,7 @@
 # Javascript Cheatsheet
 
 [![Build Status](https://img.shields.io/travis/ggjersund/JavascriptCheatsheet/master?style=flat-square)](https://travis-ci.org/ggjersund/JavascriptCheatsheet)
-[![Build Status](https://img.shields.io/coveralls/ggjersund/JavascriptCheatsheet/master?style=flat-square&service=github)](https://travis-ci.org/ggjersund/JavascriptCheatsheet)
+[![Build Status](https://img.shields.io/coveralls/ggjersund/JavascriptCheatsheet/master?style=flat-square&service=github)](https://coveralls.io/github/ggjersund/JavascriptCheatsheet)
 [![GitHub issues](https://img.shields.io/github/issues/ggjersund/JavascriptCheatsheet?style=flat-square)](https://github.com/ggjersund/JavascriptCheatsheet/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/ggjersund/JavascriptCheatsheet?style=flat-square)](https://github.com/ggjersund/JavascriptCheatsheet/stargazers)
