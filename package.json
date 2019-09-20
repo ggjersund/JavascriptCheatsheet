@@ -48,12 +48,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ggjersund/JavascriptCheatsheet.git"
+    "url": "git+https://github.com/ggjersund/javascript-cheatsheet.git"
   },
   "author": "Gjert Ingar Gjersund",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ggjersund/JavascriptCheatsheet/issues"
+    "url": "https://github.com/ggjersund/javascript-cheatsheet/issues"
   },
-  "homepage": "https://github.com/ggjersund/JavascriptCheatsheet#readme"
+  "homepage": "https://github.com/ggjersund/javascript-cheatsheet#readme"
 }

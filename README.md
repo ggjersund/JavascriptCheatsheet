@@ -1,11 +1,11 @@
 # Javascript Cheatsheet
 
-[![Build Status](https://img.shields.io/travis/ggjersund/JavascriptCheatsheet/master?style=flat-square)](https://travis-ci.org/ggjersund/JavascriptCheatsheet)
-[![Build Status](https://img.shields.io/coveralls/ggjersund/JavascriptCheatsheet/master?style=flat-square&service=github)](https://coveralls.io/github/ggjersund/JavascriptCheatsheet)
-[![GitHub issues](https://img.shields.io/github/issues/ggjersund/JavascriptCheatsheet?style=flat-square)](https://github.com/ggjersund/JavascriptCheatsheet/issues)
+[![Build Status](https://img.shields.io/travis/ggjersund/javascript-cheatsheet/master?style=flat-square)](https://travis-ci.org/ggjersund/javascript-cheatsheet)
+[![Build Status](https://img.shields.io/coveralls/ggjersund/javascript-cheatsheet/master?style=flat-square&service=github)](https://coveralls.io/github/ggjersund/javascript-cheatsheet)
+[![GitHub issues](https://img.shields.io/github/issues/ggjersund/javascript-cheatsheet?style=flat-square)](https://github.com/ggjersund/javascript-cheatsheet/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/ggjersund/JavascriptCheatsheet?style=flat-square)](https://github.com/ggjersund/JavascriptCheatsheet/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ggjersund/JavascriptCheatsheet?style=flat-square)](https://github.com/ggjersund/JavascriptCheatsheet/network)
+[![GitHub stars](https://img.shields.io/github/stars/ggjersund/javascript-cheatsheet?style=flat-square)](https://github.com/ggjersund/javascript-cheatsheet/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ggjersund/javascript-cheatsheet?style=flat-square)](https://github.com/ggjersund/javascript-cheatsheet/network)
 
 ---
 
